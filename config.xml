@@ -34,7 +34,7 @@
   </platform>
 
   <icon src="img/logo.png" />
-  <!--<splash src="splash.png" />-->
+  <splash src="splash.png" />
   
   <access origin="*" />
   <allow-navigation href="*" />
