@@ -3,7 +3,7 @@
   <name>BILBOESTIBAPRE</name>
   <description>APP DE PRUEBAS DE BILBOESTIBA.</description>
   <author email="desarrollo@miptecnologia.com" href="http://www.miptecnologia.com">MIPTecnología</author>
-  <preference name="phonegap-version" value="cli-6.3.0" />
+  <preference name="phonegap-version" value="cli-6.5.0" />
   <preference name="permissions" value="none" />
   <preference name="orientation" value="all" />
   <preference name="target-device" value="universal" />
